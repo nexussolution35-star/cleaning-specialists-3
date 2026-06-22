@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" width="300" height="72" role="img" aria-label="The Cleaning Specialist">
+  <defs>
+    <linearGradient id="wdropB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3da0ec"/><stop offset="1" stop-color="#1577c7"/>
+    </linearGradient>
+    <linearGradient id="wdropG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8bce4f"/><stop offset="1" stop-color="#58a618"/>
+    </linearGradient>
+  </defs>
+  <path d="M250 6 C268 6 282 19 282 35 C282 46 274 53 264 53 C254 53 247 46 247 36 C247 22 256 12 268 8 C262 6 256 6 250 6 Z" fill="url(#wdropB)"/>
+  <path d="M268 19 C282 19 293 29 293 42 C293 51 287 57 279 57 C271 57 265 51 265 43 C265 31 273 23 283 20 C278 19 273 19 268 19 Z" fill="url(#wdropG)" opacity="0.92"/>
+  <text x="2" y="22" font-family="Poppins, sans-serif" font-weight="600" font-size="13" letter-spacing="1.5" fill="#aab2cc">THE</text>
+  <text x="0" y="46" font-family="Poppins, sans-serif" font-weight="800" font-size="30" fill="#ffffff">Cleaning</text>
+  <text x="40" y="66" font-family="Poppins, sans-serif" font-weight="800" font-size="22" font-style="italic" fill="#8bce4f">Specialist</text>
+</svg>
